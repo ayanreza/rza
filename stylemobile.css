@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.logo img{
+	position: center;
+	height: auto;
+	max-width: 100%;
+	margin: 5rem auto;
+	background-image: 
+
+}
+
+.logobox{
+	margin: 3rem 10rem;
+}
+
+header{
+	background-image: url(../world.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 95vh;
+	
+
+}
+
+ul{
+	list-style-type: none;
+	font-size: 3rem;
+}
+
+ul li{
+	display: inline-block;
+}
+
+
+
+
